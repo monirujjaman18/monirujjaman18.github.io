@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://monirujjaman.freedev.app/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/monir-user-photo.png</image:loc>
+      <image:title>Md Monirujjaman – Senior Web Developer &amp; Team Leader | WordPress Developer</image:title>
+      <image:caption>Official portrait of Md Monirujjaman (মো. মনিরুজ্জামান), WordPress, WooCommerce &amp; Dokan Expert</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/project-woocommerce.jpg</image:loc>
+      <image:title>E-Commerce Website (WordPress &amp; WooCommerce) by Md Monirujjaman</image:title>
+      <image:caption>Fully functional online store with payment gateway and product management, optimised for SEO and fast loading.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/project-dokan.jpg</image:loc>
+      <image:title>Multi-Vendor Marketplace (WordPress &amp; Dokan) by Md Monirujjaman</image:title>
+      <image:caption>Vendor registration, product listing and commission management with advanced filtering.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/project-business.jpg</image:loc>
+      <image:title>Business Corporate Website by Md Monirujjaman</image:title>
+      <image:caption>Responsive company site with modern UI/UX, cross-browser compatibility and improved performance.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/project-portfolio.jpg</image:loc>
+      <image:title>Personal Portfolio Website by Md Monirujjaman</image:title>
+      <image:caption>Fully responsive portfolio with a clean, modern layout.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://monirujjaman.freedev.app/images/project-blood-bank.jpg</image:loc>
+      <image:title>Blood Bank Management System – 1st Place Champion Project</image:title>
+      <image:caption>Champion at Regional Skills Competition 2023, ASSET Project, Directorate of Technical Education.</image:caption>
+    </image:image>
+  </url>
+</urlset>

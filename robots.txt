@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /storage/framework/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Sitemaps
+Sitemap: https://monirujjaman.freedev.app/sitemap.xml
